@@ -1,4 +1,4 @@
-<h1 align = "center"> # 👩‍⚕️ CCINFOM S13 — Group 3 </h1>
+<h1 align = "center"> CCINFOM S13 — Group 3 </h1>
 
 Welcome to **CCINFOM S13 Group 3's** project repository!  
 This repository contains our **Medical Record Management System** for our **Information Management Database** course.
