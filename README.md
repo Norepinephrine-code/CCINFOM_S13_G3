@@ -36,7 +36,7 @@ The **Entity–Relationship Diagram (ERD)** below illustrates our `medical_db` d
 
 1. Clone this repository.
 2. Open the `.mwb` file in **MySQL Workbench**.
-3. Forward engineer the schema or run [`medical_db.sql`](medical_db.sql) to create the database.
+3. Run [`medical_db.sql`](medical_db.sql) to create the database.
 4. Refer to the PDF for table definitions and domain rules.
 
 ---
